@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Athena - A Bot for Discord
 
 You can use the [editor on GitHub](https://github.com/Kaseotone/Kaseotone.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
