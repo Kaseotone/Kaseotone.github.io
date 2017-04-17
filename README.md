@@ -3,5 +3,6 @@ Athena is an Overwatch themed Discord bot that features Overwatch stats, hero co
 ### Invite Links
 
 [Invite link](https://discord.gg/tFx59Gx) to Overwatch General, Athena's home and a place to talk about Overwatch and find new people to play with!
+
 [Invite link](https://discordapp.com/oauth2/authorize?&client_id=286136195845586946&scope=bot&permissions=130113) for Athena to join your server!
 
