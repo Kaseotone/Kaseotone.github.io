@@ -1,4 +1,4 @@
-Athena is an Overwatch themed Discord bot that features Overwatch stats, hero counters and many more features planned. Athena is being developed by **zer0ney#0025**.
+**Athena is an Overwatch themed Discord bot that features Overwatch stats, hero counters and many more features planned. Athena is being developed by *zer0ney#0025*.
 
 ### Invite Links
 
