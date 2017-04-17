@@ -1,37 +1,9 @@
 ## Athena - A Bot for Discord
 
-You can use the [editor on GitHub](https://github.com/Kaseotone/Kaseotone.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Athena is an Overwatch themed bot that features Overwatch stats, hero counters and many more features planned. Athena is being developed by zer0ney#0025.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Invite Links
 
-### Markdown
+[Invite link](https://discord.gg/tFx59Gx) to Overwatch General, Athena's home and a place to talk about Overwatch and find new people to play with!
+[Invite link](https://discordapp.com/oauth2/authorize?&client_id=286136195845586946&scope=bot&permissions=130113) for Athena to join your server!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kaseotone/Kaseotone.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
